@@ -21,8 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/created-using-custom-css-and-flexbox-GpGdpIou43)
+- Live Site URL: [URL - 1](https://qr-code-component-ape.pages.dev/)
+- Live Site URL: [URL - 2](https://ultrahash.in/projects/qr-code-component/)
 
 ## My process
 
@@ -42,4 +43,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [veerabhadra swamy](https://www.ultrahash.in)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ultra-hash](https://www.frontendmentor.io/profile/ultra-hash)
